@@ -1,7 +1,7 @@
 # javascript-final-project
 Bitwise | Javascript for Beginners | Final Project
 
-##Main objectives:
+## Main objectives:<br>
 -Create an input field for users to ask a question<br>
 -Create a label for your input field telling your user to "Ask me anything!"<br>
 -Create an "ask" button (this will run the function that outputs a random magic 8 ball image)<br>
