@@ -1,7 +1,7 @@
 body{
     
     text-align: center;
-    background-image: url("./img/deptMystery.jpg");
+    background-image: url("/img/deptMystery.jpg");
     background-repeat: repeat-y;
     background-size: 100%;
     color: #95A4AF;
@@ -17,7 +17,6 @@ body{
 
 .btn{
     margin: 10px;
-    background-color:lightslategray
 }
 
 #ball{
