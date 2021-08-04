@@ -13,9 +13,15 @@ let questionField = document.querySelector("#question-box");
 let answerDiv = document.querySelector("#answer");
 
 //create an image array for answers
-let answer = ['./img/magic8ball-1.png',
-'./img/magic8ball-2.png',
-'./img/magic8ball-3.png'];
+let answer = ['./img/ball-1.png',
+'./img/ball-2.png',
+'./img/ball-3.png',
+'./img/ball-4.png',
+'./img/ball-5.png',
+'./img/ball-6.png',
+'./img/ball-7.png',
+'./img/ball-8.png',
+'./img/ball-9.png'];
 
 //add a click event to the button
 let displayAnswer = button.addEventListener("click", function(){
